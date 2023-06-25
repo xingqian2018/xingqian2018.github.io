@@ -57,11 +57,11 @@ author_profile: true
   <br> [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Rethinking_Text_Segmentation_A_Novel_Dataset_and_a_Text-Specific_Refinement_CVPR_2021_paper.pdf) [[code]](https://github.com/SHI-Labs/Rethinking-Text-Segmentation)
 
 * <b>The 1st Agriculture-Vision Challenge: Methods and Results</b> <br>
-  <b>Xingqian Xu</b>, Mang Tik Chiu, Kai Wang, Jennifer Hobbs, Naira Hovakimyan, Thomas S Huang, Honghui Shi
+  Mang Tik Chiu, <b>Xingqian Xu</b>, Kai Wang, Jennifer Hobbs, Naira Hovakimyan, Thomas S Huang, Honghui Shi
   <br> <i> CVPRW 2021 </i> 
   <br> [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w5/Chiu_The_1st_Agriculture-Vision_Challenge_Methods_and_Results_CVPRW_2020_paper.pdf)
 
 * <b>Agriculture-vision: A large aerial image database for agricultural pattern analysis</b> <br>
-  Mang Tik Chiu, <b>Xingqian Xu</b>, Yunchao Wei, Zilong Huang, Alexander G Schwing, Robert Brunner, Hrant Khachatrian, Hovnatan Karapetyan, Ivan Dozier, Greg Rose, David Wilson, Adrian Tudor, Naira Hovakimyan, Thomas S Huang, Honghui Shi
+  <b>Xingqian Xu</b>, Mang Tik Chiu, Yunchao Wei, Zilong Huang, Alexander G Schwing, Robert Brunner, Hrant Khachatrian, Hovnatan Karapetyan, Ivan Dozier, Greg Rose, David Wilson, Adrian Tudor, Naira Hovakimyan, Thomas S Huang, Honghui Shi
   <br> <i> CVPR 2020 </i> 
   <br> [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chiu_Agriculture-Vision_A_Large_Aerial_Image_Database_for_Agricultural_Pattern_Analysis_CVPR_2020_paper.pdf)
