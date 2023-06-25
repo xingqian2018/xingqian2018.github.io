@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year Ph.D. ABD in UIUC ECE department, supervised by [Prof.Humphrey Shi](https://www.honghuishi.com/). Previously I am a member of [IFP Group at UIUC](https://ifp-uiuc.github.io/) and jointly supervised by Prof.Thomas Huang tile 2020.
+I am currently a fourth-year Ph.D. ABD in UIUC ECE department, supervised by [Prof.Humphrey Shi](https://www.honghuishi.com/). Previously I am a member of [IFP Group at UIUC](https://ifp-uiuc.github.io/) and jointly supervised by Prof.Thomas Huang before 2020.
 
 Research Interest
 ======
