@@ -22,7 +22,8 @@ My current research focuses on **Generative AI** in **Computer Vision**, particu
 
 News
 ======
+* [2023.07] Two paper accepted by ICCV 2023.
 * [2023.06] Defenced my Ph.D. Thesis.
 * [2023.05] Check out our new work [Prompt-Free Diffusion: Taking" Text" out of Text-to-Image Diffusion Models](https://arxiv.org/abs/2211.08332), [demo](https://huggingface.co/spaces/shi-labs/Prompt-Free-Diffusion) on the HuggingFace.
-* [2023.03] One paper accepted by CVPR 2023
+* [2023.03] One paper accepted by CVPR 2023.
 * [2022.11] Check out our new work [Versatile Diffusion: Text, Images and Variations All in One Diffusion Model](https://arxiv.org/abs/2305.16223), [demo](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion) on the HuggingFace.
