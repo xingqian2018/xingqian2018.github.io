@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year Ph.D. ABD in UIUC ECE department, supervised by [Prof.Humphrey Shi](https://www.honghuishi.com/). Previously I am a member of [IFP Group at UIUC](https://ifp-uiuc.github.io/) and jointly supervised by Prof.Thomas Huang before 2020.
+I am currently working as a Senior Research Scientist / AI Team Lead in Picsart AI Research. I've obtained my Ph.D. in 2023 from [IFP Group at UIUC](https://ifp-uiuc.github.io/), supervised by [Prof.Humphrey Shi](https://www.honghuishi.com/) after 2020, and formerly supervised by [Prof. Thomas Huang](https://ifp-uiuc.github.io/) before 2020.
 
 Research Interest
 ======
@@ -19,9 +19,9 @@ My current research focuses on **Generative AI** in **Computer Vision**, particu
 * Multimodal Generative AI
 * Controllable Image Editting
 
-
 News
 ======
+* [2024.02] Four paper accepted by CVPR 2024.
 * [2023.07] Two paper accepted by ICCV 2023.
 * [2023.06] Defenced my Ph.D. Thesis.
 * [2023.05] Check out our new work [Prompt-Free Diffusion: Taking" Text" out of Text-to-Image Diffusion Models](https://arxiv.org/abs/2211.08332), [demo](https://huggingface.co/spaces/shi-labs/Prompt-Free-Diffusion) on the HuggingFace.
