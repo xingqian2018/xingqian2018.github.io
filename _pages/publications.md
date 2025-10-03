@@ -6,8 +6,13 @@ author_profile: true
 ---
 
 ## Selected Conference Papers
-* <b>Prompt-Free Diffusion: Taking" Text" out of Text-to-Image Diffusion Models</b> <br>
-  <b>Xingqian Xu</b>, Jiayi Guo, Zhangyang Wang, Gao Huang, Irfan Essa, Humphrey Shi
+* <b>Versatile Diffusion: Text, Images and Variations All in One Diffusion Model</b>
+  <br> <b>Xingqian Xu</b>, Zhangyang Wang, Eric Zhang, Kai Wang, Humphrey Shi
+  <br> <i> ICCV 2023 </i> 
+  <br> [[Paper]](https://arxiv.org/abs/2211.08332) [[Code]](https://github.com/SHI-Labs/Versatile-Diffusion) [[Demo]](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion)
+
+* <b>Prompt-Free Diffusion: Taking" Text" out of Text-to-Image Diffusion Models</b>
+  <br> <b>Xingqian Xu</b>, Jiayi Guo, Zhangyang Wang, Gao Huang, Irfan Essa, Humphrey Shi
   <br> <i> CVPR 2024 </i> 
   <br> [[Paper]](https://arxiv.org/abs/2305.16223) [[Code]](https://github.com/SHI-Labs/Prompt-Free-Diffusion) [[Demo]](https://huggingface.co/spaces/shi-labs/Prompt-Free-Diffusion)
 
@@ -16,26 +21,36 @@ author_profile: true
   <br> <i> CVPR 2024 </i> 
   <br> [[Paper]](https://arxiv.org/abs/2312.04410)
 
-* <b>Versatile Diffusion: Text, Images and Variations All in One Diffusion Model</b> <br>
-  <b>Xingqian Xu</b>, Zhangyang Wang, Eric Zhang, Kai Wang, Humphrey Shi
-  <br> <i> ICCV 2023 </i> 
-  <br> [[Paper]](https://arxiv.org/abs/2211.08332) [[Code]](https://github.com/SHI-Labs/Versatile-Diffusion) [[Demo]](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion)
-
 * <b>Zero-shot Generative Model Adaptation via Image-specific Prompt Learning</b> <br>
   Jiayi Guo, Chaofei Wang, You Wu, Eric Zhang, Kai Wang, <b>Xingqian Xu</b>, Shiji Song, Humphrey Shi, Gao Huang
   <br> <i> CVPR 2023 </i> 
   <br> [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Zero-Shot_Generative_Model_Adaptation_via_Image-Specific_Prompt_Learning_CVPR_2023_paper.pdf) [[Code]](https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation)
   
-* <b>Image Completion with Heterogeneously Filtered Spectral Hints</b> <br>
-  <b>Xingqian Xu</b>, Shant Navasardyan, Vahram Tadevosyan, Andranik Sargsyan, Yadong Mu, Humphrey Shi
+* <b>Image Completion with Heterogeneously Filtered Spectral Hints</b>
+  <br> <b>Xingqian Xu</b>, Shant Navasardyan, Vahram Tadevosyan, Andranik Sargsyan, Yadong Mu, Humphrey Shi
   <br> <i> WACV 2023 </i> 
   <br> [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Xu_Image_Completion_With_Heterogeneously_Filtered_Spectral_Hints_WACV_2023_paper.pdf) [[Code]](https://github.com/SHI-Labs/SH-GAN)
 
-* <b>Towards Layer-wise Image Vectorization</b> <br>
-  Xu Ma, Yuqian Zhou, <b>Xingqian Xu</b>, Bin Sun, Valerii Filev, Nikita Orlov, Yun Fu, Humphrey Shi
-  <br> <i> CVPR 2022 </i> 
+* <b>Towards Layer-wise Image Vectorization</b>
+  <br> Xu Ma, Yuqian Zhou, <b>Xingqian Xu</b>, Bin Sun, Valerii Filev, Nikita Orlov, Yun Fu, Humphrey Shi
+  <br> <i> CVPR 2022 Oral </i> 
   <br> [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Towards_Layer-Wise_Image_Vectorization_CVPR_2022_paper.pdf) [[Code]](https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization)
-  
+
+* <b>IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance</b>
+  <br> Jiayi Guo, Chuanhao Yan, <b>Xingqian Xu</b>, Yulin Wang, Kai Wang, Gao Huang, Humphrey Shi
+  <br> <i> ICCV 2025 </i> 
+  <br> [[Paper]](https://arxiv.org/pdf/2509.26231)
+
+* <b>Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models</b>
+  <br> Eric Zhang, Kai Wang, <b>Xingqian Xu</b>, Zhangyang Wang, Humphrey Shi
+  <br> <i> CVPR 2024W </i> 
+  <br> [[Paper]](https://arxiv.org/abs/2303.17591) [[Code]](https://github.com/SHI-Labs/Forget-Me-Not)
+
+* <b>OpenBias: Open-set Bias Detection in Text-to-Image Generative Models</b> <br>
+  <br> Moreno D'Incà, Elia Peruzzo, Massimiliano Mancini, Dejia Xu, Vidit Goel, <b>Xingqian Xu</b>, Zhangyang Wang, Humphrey Shi, Nicu Sebe
+  <br> <i> CVPR 2024 </i> 
+  <br> [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/DInca_OpenBias_Open-set_Bias_Detection_in_Text-to-Image_Generative_Models_CVPR_2024_paper.pdf)
+
 * <b>VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution</b> <br>
   Zeyuan Chen, Yinbo Chen, Jingwen Liu, <b>Xingqian Xu</b>, Vidit Goel, Zhangyang Wang, Humphrey Shi, Xiaolong Wang
   <br> <i> CVPR 2022 </i> 
@@ -57,10 +72,6 @@ author_profile: true
   <br> [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chiu_Agriculture-Vision_A_Large_Aerial_Image_Database_for_Agricultural_Pattern_Analysis_CVPR_2020_paper.pdf)
 
 ## Selected Preprint Papers
-* <b>Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models</b> <br>
-  Eric Zhang, Kai Wang, <b>Xingqian Xu</b>, Zhangyang Wang, Humphrey Shi
-  <br> [[Paper]](https://arxiv.org/abs/2303.17591) [[Code]](https://github.com/SHI-Labs/Forget-Me-Not)
-
 * <b>StyleNAT: Giving Each Head a New Perspective</b> <br>
   Steven Walton, Ali Hassani, <b>Xingqian Xu</b>, Zhangyang Wang, Humphrey Shi
   <br> [[Paper]](https://arxiv.org/abs/2211.05770) [[Code]](https://github.com/SHI-Labs/StyleNAT)
