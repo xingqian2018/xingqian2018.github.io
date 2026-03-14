@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Senior Research Scientist in Meshy AI. Previously I was working as Senior Research Scientist / Team Lead in Picsart AI Research. I've obtained my Ph.D. in 2023 from [IFP Group at UIUC](https://ifp-uiuc.github.io/), supervised by [Prof.Humphrey Shi](https://www.honghuishi.com/) after 2020, and formerly supervised by [Prof. Thomas Huang](https://ifp-uiuc.github.io/) before 2020.
+I am currently working as a Senior Research Scientist in NVIDIA Research. Previously I was working as Senior Research Scientist at Meshy AI and Research Team Lead at Picsart AI Research. I've obtained my Ph.D. in 2023 from [IFP Group at UIUC](https://ifp-uiuc.github.io/), supervised by [Prof.Humphrey Shi](https://www.honghuishi.com/) after 2020, and formerly supervised by [Prof. Thomas Huang](https://ifp-uiuc.github.io/) before 2020.
 
 Research Area
 ======
 
 My current research focuses on **Generative AI** in **Computer Vision**, particularly my area of focuses are:
 
-* Trellis, Sparc3D, VecSet, etc. 3D GenAI Foundation Model
-* Text2Image, Controllable Image Editting, Inpainting
 * Multimodal Generative AI
+* Training Text-to-Image, Text-to-Video fundation models.
+* SFT Model on Text Rendering Quality
+* Collecing Data and Design Evaluation.
 
 News
 ======
+* [2025.11] Join NVIDIA as Researcher.
 * [2025.03] One paper accepted by ICCV 2025.
 * [2024.02] Four paper accepted by CVPR 2024.
 * [2023.07] Two paper accepted by ICCV 2023.
