@@ -20,7 +20,7 @@ Research Area
 
 News
 ======
-* [2026.06] Glad contributed on releasing the [Cosmos 3](https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai) omni-model family. On Artificital Analysis leaderboard, our [Cosmos3-Super-Text2Image](https://huggingface.co/collections/nvidia/cosmos3) is Ranked #1 on open-sourced and #4 among all T2I models including closed-source models [[Model](https://huggingface.co/collections/nvidia/cosmos3), [Post](https://x.com/ArtificialAnlys/status/2061494719998546206), [Paper](https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf)]
+* [2026.06] Glad contributed on releasing the [Cosmos 3](https://research.nvidia.com/labs/cosmos-lab/cosmos3/) omni-model family. On Artificital Analysis leaderboard, our [Cosmos3-Super-Text2Image](https://huggingface.co/collections/nvidia/cosmos3) is Ranked #1 on open-sourced and #4 among all T2I models including closed-source models [[Model](https://huggingface.co/collections/nvidia/cosmos3), [Post](https://x.com/ArtificialAnlys/status/2061494719998546206), [Paper](https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf)]
 * [2025.11] Join NVIDIA Cosmos team as Researcher.
 * [2025.03] One paper accepted by ICCV 2025.
 * [2024.02] Four paper accepted by CVPR 2024.
