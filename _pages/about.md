@@ -10,17 +10,17 @@ redirect_from:
 
 I am currently a Senior Research Scientist on the NVIDIA Cosmos Team. Previously I worked as a Senior Research Scientist at Meshy AI and Research Team Lead at Picsart AI Research. I've obtained my Ph.D. in 2023 from [IFP Group at UIUC](https://ifp-uiuc.github.io/), supervised by [Prof.Humphrey Shi](https://www.honghuishi.com/) after 2020, and formerly supervised by [Prof. Thomas Huang](https://ifp-uiuc.github.io/) before 2020.
 
-Research Area
+Recent Areas
 ======
 
-* **Generative AI** in **Computer Vision**.
-* Large-scale omni-generative model including Text-to-Image, Text-to-Video and Text-to-3D.
-* Caption, data, evaluation, and SFT for Text-to-Image.
-* Specialized domain improvement such as T2I and T2V text rendering quality.
+* Transformer architecture research, scaling ladders, and production LLM pretraining and de-risking.
+* Post-training (SFT and RL) of omnimodal generative models for Text-to-Image.
+* Text-to-Image data curation, captioning, and evaluation/reward modeling design.
+* Targeted capability improvements, such as text rendering quality in T2I and T2V generation.
 
 News
 ======
-* [2026.06] Glad contributed on releasing the [Cosmos 3](https://research.nvidia.com/labs/cosmos-lab/cosmos3/) omni-model family. On Artificital Analysis leaderboard, our [Cosmos3-Super-Text2Image](https://huggingface.co/collections/nvidia/cosmos3) is Ranked #1 on open-sourced and #4 among all T2I models including closed-source models [[Model](https://huggingface.co/collections/nvidia/cosmos3), [Post](https://x.com/ArtificialAnlys/status/2061494719998546206), [Paper](https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf)]
+* [2026.06] Glad contributed on releasing the [Cosmos 3](https://research.nvidia.com/labs/cosmos-lab/cosmos3/) omnimodal model family. On Artificital Analysis leaderboard, our [Cosmos3-Super-Text2Image](https://huggingface.co/collections/nvidia/cosmos3) is Ranked #1 on open-sourced and #4 among all T2I models including closed-source models [[Model](https://huggingface.co/collections/nvidia/cosmos3), [Post](https://x.com/ArtificialAnlys/status/2061494719998546206), [Paper](https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf)]
 * [2025.11] Join NVIDIA Cosmos team as Researcher.
 * [2025.03] One paper accepted by ICCV 2025.
 * [2024.02] Four paper accepted by CVPR 2024.
